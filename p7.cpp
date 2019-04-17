@@ -40,3 +40,4 @@ int main()
 	}
 	cout<<a-1;
 }
+//guia de https://www.youtube.com/channel/UCrwoXxgsew68TsDeUQFMlTw
